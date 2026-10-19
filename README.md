@@ -76,16 +76,14 @@ The report contains:
 - Variety-wise selling-price comparisons.
 - District and variety slicers.
 
-KPI calculations and units should be validated before interpreting them as business outcomes.
-
+#### Dashboard - 
+![Power BI Dashboard](https://github.com/VishwasJadhav/Mango-Market-Price-Analysis/blob/main/Power%20BI%20Dashboard/Dashboard%20Screenshot.png)
 ## Preliminary Observations
 
 - The supplied workbook contains 1,798 records across 23 markets.
 - Hapus (Alphaso) has a higher average modal price than the other variety categories in the supplied data.
 - Mumbai- Fruit Market has the highest average modal price among the markets in the dataset.
 - Mumbai- Fruit Market also has the highest average price spread in the supplied records.
-
-These findings are descriptive and relate only to the available dataset. They are not live market quotations or proof of causal relationships.
 
 ## Limitations
 
